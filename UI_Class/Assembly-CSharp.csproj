@@ -66,6 +66,7 @@
     <Compile Include="Assets\Scripts\CameraFollow.cs" />
     <Compile Include="Assets\Scripts\Coin.cs" />
     <Compile Include="Assets\Scripts\Enemy.cs" />
+    <Compile Include="Assets\Scripts\FadeInControl.cs" />
     <Compile Include="Assets\Scripts\FadeOutControl.cs" />
     <Compile Include="Assets\Scripts\GameState.cs" />
     <Compile Include="Assets\Scripts\KillZone.cs" />
